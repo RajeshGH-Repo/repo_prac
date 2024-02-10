@@ -1,1 +1,2 @@
 created 4.txt in clone repo on local
+modified 4.txt to check stash command.
